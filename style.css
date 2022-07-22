@@ -1,0 +1,30 @@
+/*Zerando a estilização da pag*/
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    text-decoration: none;
+}
+
+.container{
+    display: block;
+}
+
+.img_sobre{
+    max-height: auto;
+    min-height: auto;
+    max-width: auto;
+    min-width: auto;
+}
+
+.tituloh2{
+    text-align: center;
+}
+
+.tituloh3{
+    text-align: center;
+}
+
+.paragrafo{
+    text-align: center;
+}
